@@ -1,6 +1,3 @@
-# Cybersecurity-projects
-University projects and cybersecurity practical work
-
 # Cybersecurity & Programming Projects
 This repository contains my university coursework and practical projects as part of my BSc (Hons) Cyber Security at the University of West London.
 
